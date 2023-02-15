@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Bellary Bank Releases Nexus Repository</name>
-	      <url>http://172.31.3.221:8081/repository/BellaryBank-Release/</url>
+	      <name>KarBank Releases Nexus Repository</name>
+	      <url>http://3.110.55.38:8081/repository/Bank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Bellary Bank Snapshot Nexus Repository </name>
-	      <url>http://172.31.3.221:8081/repository/BellaryBank-Snapshot/</url>
+	      <name>KarBank Snapshot Nexus Repository </name>
+	      <url>http://3.110.55.38:8081/repository/Bank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
