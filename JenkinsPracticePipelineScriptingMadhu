@@ -26,7 +26,6 @@ stage('GitHub'){
 git branch: 'development', credentialsId: 'cf872d85-a49f-459e-8eac-561884929880', url: 'https://github.com/Madhusudhan1990/maven-web-application.git'
 
 }
-}
 
 
 
