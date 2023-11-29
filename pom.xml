@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>KarBank Releases Nexus Repository</name>
-	      <url>http://172.31.6.69:8081/repository/Bank-release/</url>
+	      <name>Bandhan Bank Releases Nexus Repository</name>
+	      <url>http://172.31.42.168:8081/repository/BandhanBank-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>KarBank Snapshot Nexus Repository </name>
-	      <url>http://172.31.6.69:8081/repository/Bank-snapshot/</url>
+	      <name>Bandhan Bank Snapshot Nexus Repository </name>
+	      <url>http://172.31.42.168:8081/repository/BandhanBank-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
